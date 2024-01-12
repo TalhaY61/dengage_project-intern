@@ -1,0 +1,5 @@
+C:\dengage-staj\DengageDemoApp.Contract\obj\Debug\net6.0\DengageDemoApp.Contract.csproj.AssemblyReference.cache
+C:\dengage-staj\DengageDemoApp.Contract\obj\Debug\net6.0\DengageDemoApp.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\dengage-staj\DengageDemoApp.Contract\obj\Debug\net6.0\DengageDemoApp.Contract.AssemblyInfoInputs.cache
+C:\dengage-staj\DengageDemoApp.Contract\obj\Debug\net6.0\DengageDemoApp.Contract.AssemblyInfo.cs
+C:\dengage-staj\DengageDemoApp.Contract\obj\Debug\net6.0\DengageDemoApp.Contract.csproj.CoreCompileInputs.cache

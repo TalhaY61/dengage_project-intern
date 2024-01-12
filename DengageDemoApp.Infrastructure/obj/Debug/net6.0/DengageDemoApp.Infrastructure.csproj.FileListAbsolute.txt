@@ -1,0 +1,17 @@
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.csproj.AssemblyReference.cache
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.AssemblyInfoInputs.cache
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.AssemblyInfo.cs
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Infrastructure.deps.json
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Infrastructure.dll
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Infrastructure.pdb
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Contract.dll
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Domain.dll
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Domain.pdb
+C:\dengage-staj\DengageDemoApp.Infrastructure\bin\Debug\net6.0\DengageDemoApp.Contract.pdb
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.csproj.CopyComplete
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.dll
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\refint\DengageDemoApp.Infrastructure.dll
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\DengageDemoApp.Infrastructure.pdb
+C:\dengage-staj\DengageDemoApp.Infrastructure\obj\Debug\net6.0\ref\DengageDemoApp.Infrastructure.dll

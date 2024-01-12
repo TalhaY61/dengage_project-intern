@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q5A4/saA+Avrs0PdlPnVpzyK+XYyJzD8QUrvC9chpPI=",
+  "Source": "DengageDemoApp.Api",
+  "BasePath": "_content/DengageDemoApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

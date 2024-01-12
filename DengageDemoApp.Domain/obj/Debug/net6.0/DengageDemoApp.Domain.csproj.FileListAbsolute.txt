@@ -1,0 +1,15 @@
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.csproj.AssemblyReference.cache
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.AssemblyInfoInputs.cache
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.AssemblyInfo.cs
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.csproj.CoreCompileInputs.cache
+C:\dengage-staj\DengageDemoApp.Domain\bin\Debug\net6.0\DengageDemoApp.Domain.deps.json
+C:\dengage-staj\DengageDemoApp.Domain\bin\Debug\net6.0\DengageDemoApp.Domain.dll
+C:\dengage-staj\DengageDemoApp.Domain\bin\Debug\net6.0\DengageDemoApp.Domain.pdb
+C:\dengage-staj\DengageDemoApp.Domain\bin\Debug\net6.0\DengageDemoApp.Contract.dll
+C:\dengage-staj\DengageDemoApp.Domain\bin\Debug\net6.0\DengageDemoApp.Contract.pdb
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.csproj.CopyComplete
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.dll
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\refint\DengageDemoApp.Domain.dll
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\DengageDemoApp.Domain.pdb
+C:\dengage-staj\DengageDemoApp.Domain\obj\Debug\net6.0\ref\DengageDemoApp.Domain.dll
